@@ -14,8 +14,7 @@ to refresh the data and the info will still be there.
 
 It is possible to delete/clear the information in the local storage either:
 1. Manually by deleting the text and then saving it.
-2. By clicking on the clear button in the Application console. 
-![Screen Shot 2022-04-25 at 1 44 37 AM (2)](https://user-images.githubusercontent.com/25726054/165027591-0b830381-73f1-47cd-a291-341fee3ca537.png)
+2. By clicking on the clear button in the Application console. The button is located on the topright. 
 
 <img width="1792" alt="Screen Shot 2022-04-25 at 1 44 37 AM" src="https://user-images.githubusercontent.com/25726054/165027582-3c8faf8b-df8c-49a3-8c0b-197af88bf0b5.png">
 
